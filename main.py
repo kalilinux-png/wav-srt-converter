@@ -38,3 +38,4 @@ def SRTToSRT(file_name,from_language,to_languages):
     # to_languages = ["lang1","lang2","lang3"]
 
     slt.srtTranslator(file_name,from_language,to_languages)
+
